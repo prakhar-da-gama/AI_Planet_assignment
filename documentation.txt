@@ -1,0 +1,28 @@
+Short Documentation for all APIs
+
+login_api():
+User can login
+
+all_hackathon_list():
+Any logedin user can view all the hackathons hosted but are still available
+
+create_hackathon():
+User logedin as Admin can create new hackathon or can approve a hackathon.
+
+register():
+Users can register for a hackathon
+
+unregister():
+users can unregister for a hackathon
+
+view_all_registrations_currentUser():
+logedin user can view all her registrations 
+
+view_all_registrations_anyUser():
+admin can see all the registrations for a particular hackathon or all hackathons
+
+create_submission():
+User can create sumission for any hackathon. It can be any one of eighter text, Image or URL
+
+view_submissions():
+User can view all his submissions 
